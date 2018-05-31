@@ -1,0 +1,3 @@
+[submodule "submodules/MyLibs"]
+	path = submodules/MyLibs
+	url = https://github.com/Kukos/MyLibs
